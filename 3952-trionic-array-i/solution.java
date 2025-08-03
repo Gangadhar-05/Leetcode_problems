@@ -1,0 +1,35 @@
+class Solution {
+    public boolean isTrionic(int[] nums) {
+        int n = nums.length;
+        if (n < 4) {
+            return false;
+        }
+
+        int p = 0;
+        while (p < n - 1 && nums[p] < nums[p + 1]) {
+            p++;
+        }
+
+        if (p == 0 || p == n - 1) {
+            return false;
+        }
+
+        int q = p;
+        while (q < n - 1 && nums[q] > nums[q + 1]) {
+            q++;
+        }
+
+        if (q == p || q == n - 1) {
+            return false;
+        }
+
+        int k = q;
+        while (k < n - 1 && nums[k] < nums[k + 1]) {
+            k++;
+        }
+
+        return k == n - 1;
+    }
+}
+
+
