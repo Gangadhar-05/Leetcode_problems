@@ -1,9 +1,9 @@
 class Solution {
-    static boolean isevendigit(int[] nums,int i){
+    static boolean isevendigit(int n){
         int cnt=0;
-        while(nums[i]>0){
+        while(n>0){
             
-            nums[i]/=10;
+            n/=10;
             cnt++;
         }
         return (cnt%2==0);
@@ -11,7 +11,7 @@ class Solution {
     public int findNumbers(int[] nums) {
         int res=0;
         for(int i=0;i<nums.length;i++){
-            if(isevendigit(nums,i)){
+            if(isevendigit(nums[i])){
                 res++;
             }
         }
