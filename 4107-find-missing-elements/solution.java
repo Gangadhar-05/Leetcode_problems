@@ -1,23 +1,25 @@
 class Solution {
-    public boolean Isnotpresent(int tar,int arr[]){
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]==tar){
-                return false;   
-            }
-
-        }
-                    return true;
-    }
     public List<Integer> findMissingElements(int[] nums) {
-        ArrayList<Integer> list=new ArrayList<>();
-        Arrays.sort(nums);
-        for(int i=nums[0]+1;i<nums[nums.length-1];i++){
-           if(Isnotpresent(i,nums)){
-               list.add(i);
-           }
-            
+        int n = nums.length;
+        HashSet<Integer> set = new HashSet<>();
+        int min=nums[0];
+        int max=nums[0];
+
+        for (int num : nums) {
+            set.add(num);
+            min=Math.min(min,num);
+            max=Math.max(max,num);
         }
-        return list;
         
+
+        List<Integer> list = new ArrayList<>();
+
+        for (int i = min ;i <= max; i++) {
+            if (!set.contains(i)) {
+                list.add(i);
+            }
+        }
+
+        return list;
     }
 }
