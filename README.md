@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [2090-k-radius-subarray-averages](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2090-k-radius-subarray-averages) |
 ## Stack
 |  |
@@ -19,5 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [2090-k-radius-subarray-averages](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2090-k-radius-subarray-averages) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
