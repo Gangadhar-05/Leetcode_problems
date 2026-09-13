@@ -11,8 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2090-k-radius-subarray-averages](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2090-k-radius-subarray-averages) |
 ## Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+## Sliding Window
+|  |
+| ------- |
+| [2090-k-radius-subarray-averages](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
