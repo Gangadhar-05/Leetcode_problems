@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2090-k-radius-subarray-averages](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2090-k-radius-subarray-averages) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Monotonic Stack
 |  |
 | ------- |
