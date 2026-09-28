@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
@@ -91,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
