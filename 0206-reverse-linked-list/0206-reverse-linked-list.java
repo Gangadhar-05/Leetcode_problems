@@ -13,19 +13,21 @@ class Solution {
         if(head==null){
             return null;
         }
-        ListNode prev=null;
-        ListNode present=head;
-        ListNode next=head.next;
-        while(present!=null){
-            present.next=prev;
-            prev=present;
-            present=next;
-            if(next!=null){
-                next=next.next;
-            }
+        ListNode temp=head;
+        ArrayList<Integer> list=new ArrayList<>();
+        while(temp!=null){
+            list.add(temp.val);
+            temp=temp.next;
+            
         }
+        temp=head;
+        for(int i=list.size()-1;i>=0;i--){
+            temp.val=list.get(i);
+            temp=temp.next;
+
+        }
+        return head;
         
-        return prev;
         
         
     }
