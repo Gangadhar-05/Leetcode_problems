@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
 | [2090-k-radius-subarray-averages](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2090-k-radius-subarray-averages) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -61,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -101,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
