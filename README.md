@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
