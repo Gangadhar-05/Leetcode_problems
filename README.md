@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2090-k-radius-subarray-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
