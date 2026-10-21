@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
