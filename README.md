@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0622-design-circular-queue](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
