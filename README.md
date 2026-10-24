@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [2090-k-radius-subarray-averages](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2090-k-radius-subarray-averages) |
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
