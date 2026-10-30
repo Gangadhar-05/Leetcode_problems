@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
@@ -171,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
