@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0682-baseball-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -186,4 +191,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
