@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
