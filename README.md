@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1472-design-browser-history](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1472-design-browser-history) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Gangadhar-05/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
